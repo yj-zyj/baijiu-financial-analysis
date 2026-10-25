@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Office 打开文档时产生的临时锁定文件
+~$*
+
+# 系统文件
+Thumbs.db
+.DS_Store
